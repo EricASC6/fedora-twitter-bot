@@ -11,14 +11,14 @@ https://realpython.com/modern-web-automation-with-python-and-selenium/
 Output - Code of python script in Github Screencast of the blog getting posted.
 
 To Do:
-1. Install selenium and learn how it works ()
-2. Create a twitter bot class ()
-   ||- Go the https://fedoramagazine.org/ to fetch the latest article ()
-   ||- Log into my twitter acct and post it ()
-   ||- Save the url of the fedora article in a txt file ()
-   ||- For future use, if the latest article has not changed, do not post it ()
+1. Install selenium and learn how it works (/)
+2. Create a twitter bot class (/)
+   ||- Go the https://fedoramagazine.org/ to fetch the latest article (/)
+   ||- Log into my twitter acct and post it (/)
+   ||- Save the url of the fedora article in a txt file (/)
+   ||- For future use, if the latest article has not changed, do not post it (/)
 3. Write the tweet.py file ()
-   ||- Create a twitter bot ()
+   ||- Create a twitter bot (/)
    || Perform the tasks above ()
 4. Screen record the script in action ()
 5. Send github url to Fedora ()
