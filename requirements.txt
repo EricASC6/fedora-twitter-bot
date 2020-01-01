@@ -20,5 +20,5 @@ To Do:
 3. Write the tweet.py file (/)
    ||- Create a twitter bot (/)
    || Perform the tasks above (/)
-4. Screen record the script in action ()
-5. Send github url to Fedora ()
+4. Screen record the script in action (/)
+5. Send github url to Fedora (/)
